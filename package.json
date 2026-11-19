@@ -1,0 +1,10 @@
+{
+  "name": "twilight-shards-server",
+  "version": "1.0.0",
+  "description": "황혼의 파편 - 계정 저장 + 친구 실시간 협동 서버",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
